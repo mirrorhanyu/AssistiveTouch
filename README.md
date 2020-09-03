@@ -1,4 +1,7 @@
 # AssistiveTouch
+
+## No longer maintained!
+
 create a AssistiveTouch in the Android mobile, play it like you do on iPhone !
 the assistivetouch will be automatically algin the screen edge!
 
